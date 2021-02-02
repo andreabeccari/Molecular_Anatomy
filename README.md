@@ -1,7 +1,7 @@
 # Molecular Anatomy
 <p style="font-size=18px"><strong> Molecular Anatomy Pipeline Protocol </strong> </p>
 <p> 
-This Pipeline Pilot protocol allows to generate molecular frameworks according to the definition rules identifying a set of nine molecular representations at different abstraction levels, combined with fragmentation rules, to define a multi-dimensional network of hierarchically interconnected molecular frameworks. The protocol prepare also the files for a network visualization that allows a full graphical representation compounds dataset, permitting an efficient navigation in the scaffold’s space and significantly contributing to perform high quality SAR analysis.
+This Pipeline Pilot protocol allows to generate molecular frameworks according to the definition rules identifying a set of nine molecular representations at different abstraction levels, combined with fragmentation rules, to define a multi-dimensional network of hierarchically interconnected molecular frameworks. The protocol generates also the files use for the network visualization that allows a full graphical representation compounds dataset, permitting an efficient navigation in the scaffold’s space and significantly contributing to perform high quality SAR analysis.
 </p>
 <p style="font-size=14px"><strong>Compatibility</strong> </p>
 <p> 
