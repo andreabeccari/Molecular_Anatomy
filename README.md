@@ -9,5 +9,5 @@ Biovia Pipeline Pilot Server: Pipeline Pilot v18 or later, including 2018.<br> K
 </p>
 <p style="font-size=14px"><strong>Installation</strong> </p>
 <p> 
-It's enough to download the protocol file and import it in Pipeline Pilot or Knime.
+It's enough to download the appropriate protocol file and import it in Pipeline Pilot or Knime.
 </p>
